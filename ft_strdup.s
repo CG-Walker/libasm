@@ -1,5 +1,5 @@
-;                           char *strdup(const char *str)
-;                           rdi = str
+                            ; char *strdup(const char *str)
+                            ; rdi = str
 
 section .text
     extern ft_strlen

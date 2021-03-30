@@ -1,4 +1,4 @@
-;                                       ssize_t ft_read(int fd, const void *buf, size_t len)
+                                        ; ssize_t ft_read(int fd, const void *buf, size_t len)
 
 section .text
     extern __errno_location
